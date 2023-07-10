@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bDXnLxiYAz7q/blkneU2KAnAv/t3aPX6ybv4+aC2e/Hsmdj2c0rlIpX5oQifrch9AxJN20Xjn1ABSNzzBL+D8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\PokeAPI\\PokeAPI\\PokeAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
